@@ -1,7 +1,7 @@
 <div align="center">
 
 
-# 吴泽铭 / Krisna
+# Krisna
 
 ### Building Useful AI
 
