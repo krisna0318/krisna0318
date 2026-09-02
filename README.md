@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krisna0318&label=Profile views&color=0e75b6&style=flat" alt="krisna0318" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krisna0318" alt="krisna0318" /></a> </p>
 
 - 🔭 I'm currently working on **AI 产品方法与原型设计 / AI product thinking & prototyping
 Agent workflow / OpenClaw / automation
